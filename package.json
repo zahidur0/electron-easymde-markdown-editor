@@ -1,0 +1,16 @@
+{
+  "name": "electron-markdown-editor",
+  "version": "1.0.0",
+  "description": "This is a simple markdown editor.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zahidur0",
+  "license": "ISC",
+  "dependencies": {
+    "easymde": "^2.18.0",
+    "electron": "^24.1.2"
+  }
+}
